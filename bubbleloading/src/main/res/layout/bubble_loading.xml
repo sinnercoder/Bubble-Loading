@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:orientation="horizontal">
+
+    <com.pankaj.bubble.Ball
+        android:id="@+id/ball_one"
+        android:layout_width="10dp"
+        android:layout_height="10dp"
+        android:layout_gravity="center" />
+
+    <com.pankaj.bubble.Ball
+        android:id="@+id/ball_two"
+        android:layout_width="10dp"
+        android:layout_marginStart="5dp"
+        android:layout_height="10dp"
+        android:layout_gravity="center" />
+
+    <com.pankaj.bubble.Ball
+        android:id="@+id/ball_three"
+        android:layout_width="10dp"
+        android:layout_marginStart="5dp"
+        android:layout_height="10dp"
+        android:layout_gravity="center" />
+
+    <com.pankaj.bubble.Ball
+        android:id="@+id/ball_four"
+        android:layout_width="10dp"
+        android:layout_height="10dp"
+        android:layout_marginStart="5dp"
+        android:layout_gravity="center" />
+
+    <com.pankaj.bubble.Ball
+        android:id="@+id/ball_five"
+        android:layout_width="10dp"
+        android:layout_height="10dp"
+        android:layout_marginStart="5dp"
+        android:layout_gravity="center"
+        android:layout_marginRight="50dp" />
+</LinearLayout>
