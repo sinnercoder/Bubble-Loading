@@ -13,7 +13,7 @@ gradle
 
 1. Copy the bubble loading module from project
 2. implement in your app level build.gradle
-3. Then in you layout file use :
+3. Then in your layout file use :
 ```
     <com.pankaj.bubble.BubbleLoading
             android:id="@+id/bubble_loading"
