@@ -4,7 +4,7 @@ Cool loading animation used for progress dialog or progress bar
 
 [Bubble Loading](https://github.com/pankaj3508/Bubble-Loading/tree/master/blob/bubble_loading.gif)
 
-![Bubble Loading](https://github.com/pankaj3508/Bubble-Loading/tree/master/blob/bubble_loading.gif)
+![Bubble Loading](blob/bubble_loading.gif)
 
 
 Usage
